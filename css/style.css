@@ -1,0 +1,4 @@
+span.badge-inline {
+  position: initial !important;
+  white-space: nowrap;
+}
