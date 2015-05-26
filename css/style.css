@@ -2,3 +2,8 @@ span.badge-inline {
   position: initial !important;
   white-space: nowrap;
 }
+
+ul.inline-list li {
+  display: inline;
+  padding: 10px;
+}
